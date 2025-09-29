@@ -164,12 +164,6 @@ MIT License © 2025 | Ruksana Shaikh
 
 ## 📬 Contact
 
-* **Author:** Your Name
-* **GitHub:** [your-username](https://github.com/your-username)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-
----
-
-✨ Let’s explore the world, one dataset at a time! 🌏
-Do you want me to do that?
-```
+* **Author:** Ruksana Shaikh
+* **GitHub:** (https://github.com/Ruksana-shaikh)
+* **Email:** (mailto:shaikhruksana.k@example.com)
