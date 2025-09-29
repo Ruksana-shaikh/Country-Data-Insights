@@ -93,7 +93,7 @@ plt.show()
 ## 📈 Results & Insights
 
 * Most countries belong to **Europe and Central Asia**.
-* Income group distribution shows **[Insert interesting insight]**.
+* Income group distribution shows **a majority of countries in the lower-middle and upper-middle income categories, with fewer in high-income groups.**.
 * Visualizations provide **quick understanding of global trends**.
 
 > 🖼️ **Screenshot / GIF Placeholder:**
