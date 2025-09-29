@@ -166,5 +166,5 @@ MIT License © 2025 | Ruksana Shaikh
 * **Author:** Ruksana Shaikh
 * **Linkedin** (https://www.linkedin.com/in/ruksana-ks)
 * **GitHub:** (https://github.com/Ruksana-shaikh)
-* **Email:** (mailto: shaikhruksana.k@gmail.com)
+* **Email:** (mail to: shaikhruksana.k@gmail.com)
 
