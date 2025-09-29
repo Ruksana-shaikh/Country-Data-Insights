@@ -97,7 +97,7 @@ plt.show()
 * Visualizations provide **quick understanding of global trends**.
 
 > 🖼️ **Screenshot / GIF Placeholder:**
-> !<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/a68cbdb7-8a85-4f32-8d46-25c37cd79cea" />
+> <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/a68cbdb7-8a85-4f32-8d46-25c37cd79cea" />
 
 ---
 
@@ -164,5 +164,7 @@ MIT License © 2025 | Ruksana Shaikh
 ## 📬 Contact
 
 * **Author:** Ruksana Shaikh
+* **Linkedin** (https://www.linkedin.com/in/ruksana-ks )
 * **GitHub:** (https://github.com/Ruksana-shaikh)
 * **Email:** (mailto: shaikhruksana.k@example.com)
+
