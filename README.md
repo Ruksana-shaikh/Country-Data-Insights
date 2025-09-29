@@ -92,7 +92,7 @@ plt.show()
 
 ## 📈 Results & Insights
 
-* Most countries belong to **[Insert dominant region]**.
+* Most countries belong to **Europe and Central Asia**.
 * Income group distribution shows **[Insert interesting insight]**.
 * Visualizations provide **quick understanding of global trends**.
 
@@ -164,7 +164,7 @@ MIT License © 2025 | Ruksana Shaikh
 ## 📬 Contact
 
 * **Author:** Ruksana Shaikh
-* **Linkedin** (https://www.linkedin.com/in/ruksana-ks )
+* **Linkedin** (https://www.linkedin.com/in/ruksana-ks)
 * **GitHub:** (https://github.com/Ruksana-shaikh)
-* **Email:** (mailto: shaikhruksana.k@example.com)
+* **Email:** (mailto: shaikhruksana.k@gmail.com)
 
